@@ -1,2 +1,5 @@
-# my_first_repository
+# Read Me First
+
 This is my first repository.
+
+I want to learn how to use GitHub.
